@@ -3,3 +3,7 @@ My name is Karthik MR. I am an undergraduate student studying Computer Science a
 Learning C programming
 Interested in web development
 Goal: Build useful software projects
+
+## Projects
+
+I am working on programming and web development projects to improve my practical skills.
